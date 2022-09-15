@@ -1,4 +1,4 @@
-# Robot-Centric Elevation Mapping
+# CCI Fork of Robot-Centric Elevation Mapping
 
 ## Overview
 
@@ -80,6 +80,9 @@ In order to install the Robot-Centric Elevation Mapping, clone the latest versio
     catkin config --cmake-args -DCMAKE_BUILD_TYPE=Release
     catkin build
 
+#### Issues
+- https://github.com/ANYbotics/grid_map/issues/292
+- https://github.com/ANYbotics/elevation_mapping/issues/151
 
 ### Unit Tests
 
